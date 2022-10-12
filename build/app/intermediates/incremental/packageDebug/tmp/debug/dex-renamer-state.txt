@@ -1,0 +1,4 @@
+#Wed Oct 12 15:22:31 PKT 2022
+base.0=/Users/burhanshaheen/Documents/burhan/BR_F/flutter_animations/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

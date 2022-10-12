@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "93f571bec836ea48b064a75fe3339a4f"
+build_time: [1665553667, 671036000]
+inputs:
+  "/Users/burhanshaheen/Documents/burhan/BR_F/flutter_animations/macos/Runner/MainFlutterWindow.swift": [1657744753, 0]
+  "/Users/burhanshaheen/Documents/burhan/BR_F/flutter_animations/macos/Runner/AppDelegate.swift": [1657744753, 0]
+  "/Users/burhanshaheen/Documents/burhan/BR_F/flutter_animations/macos/Flutter/GeneratedPluginRegistrant.swift": [1665553639, 603770584]
